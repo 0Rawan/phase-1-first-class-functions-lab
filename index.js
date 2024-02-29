@@ -11,5 +11,4 @@ const createFareMultiplier = (num) => {
 
 const  fareDoubler = (num) =>  num * 2
 const fareTripler = (num) => num *3 
-
 const  selectDifferentDrivers = (arr, fn) => fn(arr)
